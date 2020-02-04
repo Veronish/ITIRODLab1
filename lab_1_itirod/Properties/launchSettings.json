@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab_1_itirod": {
+      "commandName": "Project",
+      "commandLineArgs": "-i testin.csv -o tesNew4 -f Excel"
+    }
+  }
+}
